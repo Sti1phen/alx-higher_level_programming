@@ -1,2 +1,2 @@
-dddd
-kkkkk
+#!/bin/bash
+python3 -c $PYCODE
